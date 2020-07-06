@@ -11,11 +11,14 @@ const PhotoCanvas = () => {
   const [thumbs, setThumbs] = useState([])
   const [selected, setSelected] = useState('')
 
+
   const handleChange = (e) => {
     setQuery(e.target.value)
   }
 
-  const getPhotos = () => {
+  const getPhotos = (e) => {
+    e.preventDefault()
+    console.log(e)
     fetch(ENDPOINT + query, {
       method: 'GET',
       headers: {
@@ -35,10 +38,16 @@ const PhotoCanvas = () => {
   return (
     <div className="photo-canvas">
       <div className="search-box">
-        <input type="text" name="search" onChange={handleChange} value={query} placeholder="Enter keyword"/>
-        <button onClick={getPhotos}>Find images</button>
+        <form id="search-form" onSubmit={getPhotos}>
+          <input type="text" name="search" onChange={handleChange} value={query} placeholder="ex: mountain"/>
+          <button type="submit" form="search-form">Find images</button>
+        </form>
       </div>
 
+      {thumbs.length === 0 ?
+        <p>What inspires you...</p> :
+        <h3>Pick a thumbnail</h3>
+      }
       <div className="thumbs">
         {thumbs.map((t,i) => (
           <Thumb

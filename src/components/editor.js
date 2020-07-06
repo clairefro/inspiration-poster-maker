@@ -72,12 +72,12 @@ const Editor = ({ data }) => {
 
   return (
     <div className="editor">
+      <h3>Add motivational text</h3>
       <div className="edit-controls">
         <div className="edit-inputs">
           <input type="text" onChange={handleTitle} value={title} placeholder="TITLE" />
           <input type="text" onChange={handleSubtitle} value={subtitle} placeholder="Subtitle"/>
         </div>
-        <button onClick={handleExport}>Export .jpg</button>
       </div>
       <canvas
         id="canvas"
@@ -87,6 +87,9 @@ const Editor = ({ data }) => {
         style={{width: '100%', height: '100%'}}
       >
       </canvas>
+      <br/>
+      <br/>
+      <button onClick={handleExport}>Export .jpg</button>
     </div>
   );
 }

@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Inspire Me</h1>
+        <h1>Inspirational Poster Maker</h1>
         <PhotoCanvas />
       </div>
     </div>
