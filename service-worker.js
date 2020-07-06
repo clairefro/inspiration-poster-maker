@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/inspiration-poster-maker/precache-manifest.622b9ff74effd46c3bd50f4b066ca39b.js"
+  "/inspiration-poster-maker/precache-manifest.a0e43bdbc5063fd41038a316719f3692.js"
 );
 
 self.addEventListener('message', (event) => {
