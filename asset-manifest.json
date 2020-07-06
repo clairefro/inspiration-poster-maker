@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/inspiration-poster-maker/static/css/main.1775d71f.chunk.css",
-    "main.js": "/inspiration-poster-maker/static/js/main.e0fa58d0.chunk.js",
-    "main.js.map": "/inspiration-poster-maker/static/js/main.e0fa58d0.chunk.js.map",
+    "main.css": "/inspiration-poster-maker/static/css/main.3822d4da.chunk.css",
+    "main.js": "/inspiration-poster-maker/static/js/main.26bc911c.chunk.js",
+    "main.js.map": "/inspiration-poster-maker/static/js/main.26bc911c.chunk.js.map",
     "runtime-main.js": "/inspiration-poster-maker/static/js/runtime-main.dba5f4a3.js",
     "runtime-main.js.map": "/inspiration-poster-maker/static/js/runtime-main.dba5f4a3.js.map",
     "static/js/2.c1f60bd4.chunk.js": "/inspiration-poster-maker/static/js/2.c1f60bd4.chunk.js",
     "static/js/2.c1f60bd4.chunk.js.map": "/inspiration-poster-maker/static/js/2.c1f60bd4.chunk.js.map",
     "index.html": "/inspiration-poster-maker/index.html",
-    "precache-manifest.40c70c64cfec0cc3cebc9ea58220202f.js": "/inspiration-poster-maker/precache-manifest.40c70c64cfec0cc3cebc9ea58220202f.js",
+    "precache-manifest.7d4fd3e831a35b827347af8732bd349a.js": "/inspiration-poster-maker/precache-manifest.7d4fd3e831a35b827347af8732bd349a.js",
     "service-worker.js": "/inspiration-poster-maker/service-worker.js",
-    "static/css/main.1775d71f.chunk.css.map": "/inspiration-poster-maker/static/css/main.1775d71f.chunk.css.map",
+    "static/css/main.3822d4da.chunk.css.map": "/inspiration-poster-maker/static/css/main.3822d4da.chunk.css.map",
     "static/js/2.c1f60bd4.chunk.js.LICENSE.txt": "/inspiration-poster-maker/static/js/2.c1f60bd4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dba5f4a3.js",
     "static/js/2.c1f60bd4.chunk.js",
-    "static/css/main.1775d71f.chunk.css",
-    "static/js/main.e0fa58d0.chunk.js"
+    "static/css/main.3822d4da.chunk.css",
+    "static/js/main.26bc911c.chunk.js"
   ]
 }
