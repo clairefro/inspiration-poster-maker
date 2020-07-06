@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6daa898a077bef530578ff00011a7f2f",
+    "revision": "a81a447147480dac55d7f6184a25712c",
     "url": "/inspiration-poster-maker/index.html"
   },
   {
-    "revision": "842b52ba5a5d19b94545",
-    "url": "/inspiration-poster-maker/static/css/main.3822d4da.chunk.css"
+    "revision": "42b4c3afdf4b5d057984",
+    "url": "/inspiration-poster-maker/static/css/main.12263d07.chunk.css"
   },
   {
     "revision": "defb714cbef4ac34d61a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inspiration-poster-maker/static/js/2.c1f60bd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "842b52ba5a5d19b94545",
-    "url": "/inspiration-poster-maker/static/js/main.26bc911c.chunk.js"
+    "revision": "42b4c3afdf4b5d057984",
+    "url": "/inspiration-poster-maker/static/js/main.ab8edbb7.chunk.js"
   },
   {
     "revision": "7b749a2283794a20c532",
