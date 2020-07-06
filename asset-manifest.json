@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/inspiration-poster-maker/static/css/main.75df9f48.chunk.css",
+    "main.js": "/inspiration-poster-maker/static/js/main.5beaee8f.chunk.js",
+    "main.js.map": "/inspiration-poster-maker/static/js/main.5beaee8f.chunk.js.map",
+    "runtime-main.js": "/inspiration-poster-maker/static/js/runtime-main.dba5f4a3.js",
+    "runtime-main.js.map": "/inspiration-poster-maker/static/js/runtime-main.dba5f4a3.js.map",
+    "static/js/2.38216a36.chunk.js": "/inspiration-poster-maker/static/js/2.38216a36.chunk.js",
+    "static/js/2.38216a36.chunk.js.map": "/inspiration-poster-maker/static/js/2.38216a36.chunk.js.map",
+    "index.html": "/inspiration-poster-maker/index.html",
+    "precache-manifest.d1abab3ec5b6bf8e1dc462fea87a7912.js": "/inspiration-poster-maker/precache-manifest.d1abab3ec5b6bf8e1dc462fea87a7912.js",
+    "service-worker.js": "/inspiration-poster-maker/service-worker.js",
+    "static/css/main.75df9f48.chunk.css.map": "/inspiration-poster-maker/static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.38216a36.chunk.js.LICENSE.txt": "/inspiration-poster-maker/static/js/2.38216a36.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "/inspiration-poster-maker/static/media/mintbean.cf18b629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dba5f4a3.js",
+    "static/js/2.38216a36.chunk.js",
+    "static/css/main.75df9f48.chunk.css",
+    "static/js/main.5beaee8f.chunk.js"
+  ]
+}
