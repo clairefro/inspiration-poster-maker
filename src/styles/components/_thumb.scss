@@ -1,0 +1,16 @@
+.thumbs {
+  display: flex;
+  align-items: flex-end;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.thumb {
+  background-position: center;
+  background-size: contain;
+  border: 2px solid $black;
+  margin: 8px;
+  &.selected {
+    border-color: red;
+  }
+}
