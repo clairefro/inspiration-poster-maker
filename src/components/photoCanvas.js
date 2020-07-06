@@ -34,9 +34,10 @@ const PhotoCanvas = () => {
 
   return (
     <div className="photo-canvas">
-      <label htmlFor="search">Search</label>
-      <input type="text" name="search" onChange={handleChange} value={query} placeholder="Enter keyword"/>
-      <button onClick={getPhotos}>Search</button>
+      <div className="search-box">
+        <input type="text" name="search" onChange={handleChange} value={query} placeholder="Enter keyword"/>
+        <button onClick={getPhotos}>Find images</button>
+      </div>
 
       <div className="thumbs">
         {thumbs.map((t,i) => (
